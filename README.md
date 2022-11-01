@@ -1,6 +1,6 @@
 # PasswordGenerator
 
-This project required me to create a Javascript password generator 8 - 128 characters long using upper and lower case letters, numbers and special characters.
+This project required me to create a Javascript password generator with a length of at least 8 characters and no more than 128 characters using upper and lower case letters, numbers and special characters.
 
 If the password length does not meet the criteria, the generator will not move to the next step. 
 
